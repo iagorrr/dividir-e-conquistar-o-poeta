@@ -24,15 +24,14 @@ Problemas sobre dividir e conquistar em juízes online.
 - [Código](./problems/CF1547F/main.cpp)
 - [Video](https://www.youtube.com/watch?v=XfELJU1mRMg)
 
-<!--
+### CSES - Hotel Queries (1143)
 
-### Codeforces - Array Stabilization (GCD version) (1547F)
-
-- [Problema](https://codeforces.com/problemset/problem/1547/F)
-- [Submissão](https://codeforces.com/contest/1547/submission/274431818)
-- [Código](./problems/CF1547F/main.cpp)
+- [Problema](https://cses.fi/problemset/task/1143)
+- [Submissão](https://cses.fi/paste/9d7b40612be6c5957a97fa/)
+- [Código](./problems/CSES1143/main.cpp)
 - [Video](https://www.youtube.com/watch?v=XfELJU1mRMg)
 
+<!--
 ### Codeforces - Array Stabilization (GCD version) (1547F)
 
 - [Problema](https://codeforces.com/problemset/problem/1547/F)
