@@ -1,45 +1,64 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Dividir e Conquistar - O Poeta
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+**Número da Lista**: 66
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula | Aluno                     |
+| --------- | ------------------------- |
+| 221007850 | Arthur Ribeiro e Sousa    |
+| 211039484 | Iago Rocha Santos Marques |
 
+## Sobre
+
+Problemas sobre dividir e conquistar em juízes online.
+
+## Problemas
+
+### Codeforces - Array Stabilization (GCD version) (1547F)
+
+- [Problema](https://codeforces.com/problemset/problem/1547/F)
+- [Submissão](https://codeforces.com/contest/1547/submission/274431818)
+- [Código](./problems/CF1547F/main.cpp)
+- [Video](https://www.youtube.com/watch?v=XfELJU1mRMg)
+
+<!--
+
+### Codeforces - Array Stabilization (GCD version) (1547F)
+
+- [Problema](https://codeforces.com/problemset/problem/1547/F)
+- [Submissão](https://codeforces.com/contest/1547/submission/274431818)
+- [Código](./problems/CF1547F/main.cpp)
+- [Video](https://www.youtube.com/watch?v=XfELJU1mRMg)
+
+### Codeforces - Array Stabilization (GCD version) (1547F)
+
+- [Problema](https://codeforces.com/problemset/problem/1547/F)
+- [Submissão](https://codeforces.com/contest/1547/submission/274431818)
+- [Código](./problems/CF1547F/main.cpp)
+- [Video](https://www.youtube.com/watch?v=XfELJU1mRMg)
+
+-->
+
+<!--
 ## Screenshots
+
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
+
+## Instalação
+
 **Linguagem**: xxxxxx<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
-## Uso 
+## Uso
+
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
+## Outros
+
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+-->
